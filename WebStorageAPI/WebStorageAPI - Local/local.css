@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+#container {
+    text-align: center;
+    color: white;
+}
+
+.result {
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.result span {
+    display: block;
+    margin: 12px;
+}
